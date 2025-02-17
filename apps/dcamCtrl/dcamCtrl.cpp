@@ -1,5 +1,5 @@
 /** \file dcamCtrl.cpp
-  * \brief The MagAO-X Princeton Instruments EMCCD camera controller main program.
+  * \brief The MagAO-X Hamamatsu QCMOS controller main program.
   *
   * \author Joshua Liberman (jliberman@arizona.edu)
   * 
